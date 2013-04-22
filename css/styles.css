@@ -1,0 +1,22 @@
+div {
+	height: 300px;
+	margin: .5em auto;
+	width: 960px;	
+}
+
+#one {
+	background: #666666;
+}
+
+#two {
+	background: #333333;
+}
+
+#three {
+	background: url("../img/bg.png");
+}
+
+#four {
+	background: #fff;
+	border: 1px solid #000;
+}
